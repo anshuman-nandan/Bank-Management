@@ -1,0 +1,5 @@
+unblocked
+17500
+name:azzam,dob:15\10\2002,c/o:fghi,aadhar no.:222222222222,account no.:100000000002,address:fghi,mobile no.:2222222222
+TRANSACTION HISTORY::,Recieved 2500 from anshuman0001 on September 18; 2022 at 19:36:46,Recieved 2500 from anshuman0001 on September 18; 2022 at 18:29:56,Recieved 2500 from anshuman0001 on September 18; 2022 at 16:36:41,,,,
+LOGIN ACTIVITY::,logged in on September 18; 2022 at 19:37:47,logged in on September 18; 2022 at 18:30:20,logged in on September 18; 2022 at 16:36:56,,,,
