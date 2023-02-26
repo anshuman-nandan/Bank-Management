@@ -547,7 +547,7 @@ def upd_det(user):
     os.remove(user)
     os.rename('temp.txt',user)            
     print('DETAILS UPDATED SUCCESFULLY')
-#CHECKS SAME ACCOUNT NUMBER
+#CHECKS SAME AADHAR NUMBER
 def same_accno():
     with open('accounts.txt') as f:
         d={'account':'aadhar'}
@@ -589,7 +589,7 @@ def same_accno():
             print(i)
         print()
     if chl==0:
-        print('NO USERS HAVE SAME ACCOUNT NUMBER')
+        print('NO USERS HAVE SAME AADHAR NUMBER')
 #EMPLOYEE FUNCTIONS
 def emp_loggedin():
     while True:

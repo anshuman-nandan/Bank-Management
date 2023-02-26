@@ -1,5 +1,5 @@
 unblocked
-2500
-name:anshuman,dob:01\08\2003,c/o:abcd,aadhar no.:111111111111,account no.:100000000001,address:abcd,mobile no.:1111111111
-TRANSACTION HISTORY::,Sent 2500 to azzam0002 on September 18; 2022 at 19:36:46,Sent 2500 to azzam0002 on September 18; 2022 at 18:29:56,Sent 2500 to azzam0002 on September 18; 2022 at 16:36:41,,,,
-LOGIN ACTIVITY::,logged in on September 18; 2022 at 19:35:34,logged in on September 18; 2022 at 18:29:44,logged in on September 18; 2022 at 16:36:25,,,,
+1300
+name:anshumannandan,dob:01\08\2003,c/o:abcd,aadhar no.:111111111111,account no.:100000000001,address:abcd,mobile no.:1111111111
+TRANSACTION HISTORY::,Sent 1200 to azzam0002 on February 26; 2023 at 15:35:45,Sent 2500 to azzam0002 on September 18; 2022 at 19:36:46,Sent 2500 to azzam0002 on September 18; 2022 at 18:29:56,Sent 2500 to azzam0002 on September 18; 2022 at 16:36:41,,,,,
+LOGIN ACTIVITY::,logged in on February 26; 2023 at 15:39:10,logged in on February 26; 2023 at 15:38:18,logged in on February 26; 2023 at 15:37:23,logged in on February 26; 2023 at 15:35:19,logged in on September 18; 2022 at 19:35:34,logged in on September 18; 2022 at 18:29:44,logged in on September 18; 2022 at 16:36:25,,,,,,,,
